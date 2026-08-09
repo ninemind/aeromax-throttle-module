@@ -1,0 +1,20 @@
+# KiCad local settings, lock files, backups, and caches
+*.kicad_prl
+*.kicad_prl-bak
+*.bak
+*.lck
+*.lck.*
+*-backups/
+fp-info-cache
+.history/
+
+# Generated print and video outputs
+*.gcode
+*.step
+videos/
+
+# OS and editor clutter
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp

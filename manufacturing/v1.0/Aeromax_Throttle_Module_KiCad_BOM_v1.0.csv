@@ -1,0 +1,5 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"C_0603_1608Metric";1;"1uF";;;
+2;"R1";"R_0603_1608Metric";1;"100R";;;
+3;"U1";"SO-8_3.9x4.9mm_P1.27mm";1;"MT6701CT-STD-R";;;
+4;"X1, X2";"MILL-MAX_829-22-003-20-001101";2;"829-22-003-20-001101";;;
