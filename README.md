@@ -19,14 +19,15 @@ For ready-to-print files, tested print profiles, photos, and the illustrated ass
 | Folder or file | Contents |
 | --- | --- |
 | `Aeromax_Throttle_Module.3mf` | Printable mechanical model and print setup |
-| `Aeromax_Throttle_Module_Assembly_Guide_Revision_8.pdf` | Illustrated mechanical assembly guide |
+| `assembly.pdf` | Illustrated mechanical assembly guide |
+| `Aeromax_Throttle_Module.step` | Neutral CAD exchange model for viewing and remixing |
 | `images/` | Project renderings used in this README |
 | `kikad/` | Editable KiCad schematic, PCB, and project files |
 | `manufacturing/v1.0/` | Tested v1.0 Gerbers and JLCPCB assembly files |
 
 ## Build overview
 
-Start with [the illustrated assembly guide](Aeromax_Throttle_Module_Assembly_Guide_Revision_8.pdf). It covers the required parts and the complete mechanical assembly sequence.
+Start with [the illustrated assembly guide](assembly.pdf). It covers the required parts and the complete mechanical assembly sequence.
 
 The PCB is a separate build step. The editable source is in [`kikad/`](kikad/); users who want JLCPCB assembly should use the files in [`manufacturing/v1.0/`](manufacturing/v1.0/).
 
