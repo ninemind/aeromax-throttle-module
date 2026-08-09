@@ -4,6 +4,8 @@ An unofficial, community-built throttle module for the VIRPIL CDT-AEROMAX. This 
 
 The design combines 3D-printed mechanical parts, a custom KiCad sensor PCB, and a magnetic position sensor. The module interface also provides a connection for an additional button, leaving room for custom levers, collectives, twin-throttle designs, and other original controls.
 
+<a href="https://www.buymeacoffee.com/ninemind" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;"></a>
+
 ## Print files and profiles
 
 For ready-to-print files, tested print profiles, photos, and the illustrated assembly guide, see the [MakerWorld project page](https://makerworld.com/en/models/3148591-virpil-aeromax-throttle-module#profileId-3556232). This repository is the canonical source for the editable CAD, KiCad design, and PCB manufacturing files.
@@ -24,7 +26,7 @@ For ready-to-print files, tested print profiles, photos, and the illustrated ass
 
 ## Build overview
 
-The illustrated assembly guide lists the required mechanical parts: heat-set inserts, a 695ZZ pivot bearing, M3 washers, an M5 pivot screw and lock nut, a 6 mm x 2.5 mm diametric magnet, board screws, and the sensor PCB. See [the assembly guide](Aeromax_Throttle_Module_Assembly_Guide_Revision_8.pdf) before ordering or printing anything.
+Start with [the illustrated assembly guide](Aeromax_Throttle_Module_Assembly_Guide_Revision_8.pdf). It covers the required parts and the complete mechanical assembly sequence.
 
 The PCB is a separate build step. The editable source is in [`kikad/`](kikad/); users who want JLCPCB assembly should use the files in [`manufacturing/v1.0/`](manufacturing/v1.0/).
 
@@ -52,7 +54,9 @@ If you make a variant, please share photos, source files, and notes that will he
 
 ## Support
 
-If this project was useful and you would like to support future designs, you can [buy me a coffee](https://buymeacoffee.com/ninemind).
+If this project was useful and you would like to support future designs:
+
+<a href="https://www.buymeacoffee.com/ninemind" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;"></a>
 
 ## Important
 
